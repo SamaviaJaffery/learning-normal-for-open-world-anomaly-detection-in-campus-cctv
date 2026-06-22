@@ -1,0 +1,2 @@
+# learning-normal-for-open-world-anomaly-detection-in-campus-cctv
+Campus safety is a major issue, especially with the increase in threats and shootings in the recent years. This project uses an unsupervised approach to develop reconstruction-based anomaly detector that learns the normal campus activity and detects weapon anomalies, using techniques such as percentile thresholds, classification errors and accuracy
