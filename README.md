@@ -39,6 +39,15 @@ If reconstruction error <= threshold: normal
 The threshold is selected using the **95th percentile of the training reconstruction error distribution**.
 
 ---
+## Dataset
+
+The project uses the **ShanghaiTech Campus dataset** for normal and in-domain campus video evaluation, along with a **synthetic weapon anomaly dataset** for testing strong out-of-distribution weapon-related anomalies.
+
+The datasets and related project files can be accessed here:
+
+[Google Drive Dataset Folder](https://drive.google.com/drive/folders/1e92myC8NSD9pFQEx4sc3UWeWVSH8vM3Z?usp=sharing)
+
+After opening the link, add the dataset folder as a shortcut to `MyDrive` so the notebook paths work correctly in Google Colab.
 
 ## How to Run
 
