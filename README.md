@@ -1,6 +1,6 @@
 # Learning Normal for Open-World Anomaly Detection in Campus CCTV
 
-This repository contains a course project on **unsupervised video anomaly detection for campus CCTV footage**. The goal is to learn normal campus activity patterns and flag strong out-of-distribution events, especially weapon-related anomalies, using reconstruction error.
+This repository contains **unsupervised video anomaly detection for campus CCTV footage**. The goal is to learn normal campus activity patterns and flag strong out-of-distribution events, especially weapon-related anomalies, using reconstruction error.
 
 The system uses a two-stage pipeline:
 
