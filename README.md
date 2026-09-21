@@ -73,7 +73,7 @@ After opening the link, add the dataset folder as a shortcut to `MyDrive` so the
 Using the unsupervised threshold, the evaluated weapon anomaly clips were flagged at:
 
 ```text
-100% anomaly detection rate
+approx 100% anomaly detection rate
 ```
 
 ---
